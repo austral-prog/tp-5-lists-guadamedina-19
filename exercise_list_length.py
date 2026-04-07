@@ -11,3 +11,8 @@ def list_length(lista):
         Un entero con la cantidad de elementos
     """
     pass  # Reemplazar con tu implementación
+    if lista != [ ]:
+        return len(lista)
+    elif lista == [ ]:
+        return 0
+
