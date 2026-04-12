@@ -15,4 +15,3 @@ def list_length(lista):
         return len(lista)
     elif lista == [ ]:
         return 0
-
