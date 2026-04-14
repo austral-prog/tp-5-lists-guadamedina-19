@@ -16,4 +16,6 @@ def find_max(lista):
         return max(lista)
     elif lista == [ ]:
         return None
+    else: 
+        return None 
 
